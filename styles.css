@@ -1,0 +1,18 @@
+.jumbotron {
+  background-color: grey
+}
+
+.navbar-brand {
+  font-family: 'Oswald';
+  font-size: 36px;
+}
+
+h4 {
+  color: blue;
+  font-family: arial;
+  font-size: 24px
+}
+
+#Recipes {
+  color: green;
+}

@@ -14,3 +14,7 @@ h1 {
 #summary {
   color: green;
 }
+img {
+  height: 10;
+  width: 10;
+}
